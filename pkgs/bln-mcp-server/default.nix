@@ -15,7 +15,7 @@ buildNpmPackage rec {
     hash = "sha256-FkFDtNPIUohvvSYJV3Pa79IIPbWac1SKWBR72NDIukU=";
   };
 
-  npmDepsHash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+  npmDepsHash = "sha256-G1Qt7o2XV03Xds8vm+/2sklTXKE9HLZeHvCKejOg/fM=";
 
   inherit nodejs;
 
