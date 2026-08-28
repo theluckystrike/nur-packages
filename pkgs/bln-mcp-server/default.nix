@@ -12,7 +12,7 @@ buildNpmPackage rec {
     owner = "theluckystrike";
     repo = "bln-mcp-grammar-server";
     rev = "v${version}";
-    hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+    hash = "sha256-FkFDtNPIUohvvSYJV3Pa79IIPbWac1SKWBR72NDIukU=";
   };
 
   npmDepsHash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
